@@ -46,9 +46,8 @@ Me apasiona resolver problemas complejos mediante datos, construir modelos de Ma
 
 ## 📬 ¿Hablamos?
 
-- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/fercarstens)
-- Web personal: [tupagina.com](https://fercarstens.github.io)
-- Email: fernando@ejemplo.com
+- LinkedIn: [linkedin.com/in/fercarstens](https://linkedin.com/in/fercarstens)
+- Web personal: [https://fercarstens.github.io](https://fercarstens.github.io)
 
 ---
 
@@ -98,9 +97,8 @@ I'm passionate about solving real-world problems with data, building ML models t
 
 ## 📬 Let’s connect!
 
-- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/fercarstens)
-- Personal site: [tupagina.com](https://fercarstens.github.io)
-- Email: fernando@ejemplo.com
+- LinkedIn: [linkedin.com/in/fercarstens](https://linkedin.com/in/fercarstens)
+- Web personal: [https://fercarstens.github.io](https://fercarstens.github.io)
 
 ---
 
